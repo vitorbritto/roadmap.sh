@@ -5,3 +5,4 @@ This repository contains all Projects from [Roadmap.sh](https://roadmap.sh).
 ## Projects
 
 - [Single Page CV](https://roadmap.sh/projects/single-page-cv) - A simple single page CV written in HTML and CSS.
+- [Basic HTML Website](https://roadmap.sh/projects/basic-html-website) - A basic HTML website with a navigation menu and a footer.
